@@ -4,16 +4,16 @@
     font-size: 16px;
 }
 
-body{
+body {
 
-    background-color: gray;
+    background-color: green;
 }
 
-main{
+main {
 
     background-color: blue;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 3px black;
+    box-shadow: 3px 3px 50px black;
 }
